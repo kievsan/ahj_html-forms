@@ -11,6 +11,11 @@
 ---
 
 **Результаты**: e2e-тесты в консоли проходят отлично, а в AppVeyor - нет:
+#### НЕ ПОМОГЛО:
+1. переустановка node_modules, package-lock.json
+2. в проектЕ WebStorm: File -> Invalidate Caches/Restart, удаление папки .idea
+3. npm cache clean --force
+
 
 ![](./pic/appveyor_ERR.png)
 
