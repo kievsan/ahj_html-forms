@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "Работа с HTML-формами"
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/fed0e83h4iqiw898?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-html-forms)    [GitHub Pages](https://kievsan.github.io/ahj_html-forms/)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/7bdfw2ecg03idspc?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-html-forms)    [GitHub Pages](https://kievsan.github.io/ahj_html-forms/)
 
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
